@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @LukeKavanagh89
-- 👀 I’m interested in NCI 
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Computer Science - Specialising in Software Development
 - 📫 How to reach me Kavanaghluke19@gmail.com or www.linkedin.com/in/luke-kavanagh1
 
 <!---
